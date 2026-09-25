@@ -1,0 +1,8 @@
+{
+  "name": "Remix MyVoice Bangla",
+  "description": "Complete offline personal Bangla voice clone \u0026 text-to-speech studio with on-device voice profile extraction, audio conditioning, and Bengali TTS synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
